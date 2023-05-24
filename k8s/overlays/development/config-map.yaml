@@ -4,6 +4,7 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
+      "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
       "https://i.imgflip.com/7jmwjs.jpg"
     ]
 kind: ConfigMap
